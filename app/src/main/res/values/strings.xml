@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExploreMapLocation</string>
+    <string name="permission_denied">Oops! You denied permission!!</string>
+</resources>
